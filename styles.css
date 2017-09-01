@@ -1,0 +1,82 @@
+
+body {
+	background-color: #000000;
+	color: #ffffff;
+	font-family: 'Lora', serif;
+	text-align: center;
+}
+
+.App {
+	margin: 0 auto;
+}
+
+.inline {
+	display: inline-flex;
+}
+
+.grid {
+	background-color: #000000;
+	margin: 20px auto;
+}
+
+.cell {
+	width: 1em;
+	height: 1em;
+	background-color: #000000;
+}
+
+.darknessToggle {
+	margin: 10px auto;
+	font-family: 'Lora', serif;
+}
+
+.path {
+	background-color: #aaaaaa;
+}
+
+.enemy, .boss {
+	background-color: #0b4391;
+}
+
+.health {
+	background-color: #0a7e3b;
+}
+
+.key {
+	background-color: #d68404;
+}
+
+.player {
+	background-color: #ba043a;
+}
+
+.row {
+	display: flex;
+	justify-content: center;
+}
+
+.stairway {
+	background: #ffffff;
+}
+
+.stats {
+	margin: 20px auto;
+	text-align: center;
+}
+
+.stat {
+	display: inline;
+	padding: 0 10px;
+}
+
+.title {
+	text-align: center;
+}
+
+.wall {
+	background-color: #555555;
+}
+
+.weapon {
+	background-color: #450469;
+}
