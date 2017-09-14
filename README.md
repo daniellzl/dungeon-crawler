@@ -2,7 +2,7 @@
 
 Roguelike dungeon crawler where player must find 3 key pieces, ascend the stairway, fight the boss!
 
-[Live Application](dungeon-crawler-dlzl.surge.sh)
+[Live Application](https://dungeon-crawler-dlzl.surge.sh)
 
 ### Project Goals
 
